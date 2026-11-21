@@ -1,0 +1,8 @@
+../Core/Src/tuner.c:34:13:send_empty_reading	200	static
+../Core/Src/tuner.c:45:13:send_reading	312	static
+../Core/Src/tuner.c:66:6:Tuner_Start	16	static
+../Core/Src/tuner.c:76:6:Tuner_Poll	48	static
+../Core/Src/tuner.c:117:13:capture_dma_block	32	static
+../Core/Src/tuner.c:129:6:HAL_DFSDM_FilterRegConvHalfCpltCallback	16	static
+../Core/Src/tuner.c:136:6:HAL_DFSDM_FilterRegConvCpltCallback	16	static
+../Core/Src/tuner.c:143:6:HAL_DFSDM_FilterErrorCallback	16	static
